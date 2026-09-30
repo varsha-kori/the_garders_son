@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/gardeners-son-v3.html"
+    }
+  ]
+}
